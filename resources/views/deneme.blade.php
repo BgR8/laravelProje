@@ -1,0 +1,2 @@
+burası deneme sayfasıdır.
+{{$isim}}
